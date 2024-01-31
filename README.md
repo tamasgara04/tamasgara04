@@ -64,9 +64,9 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 <p align="center">
-<img style="width:33%" src="https://github-readme-streak-stats.herokuapp.com/?user=tamasgara04&" alt="tamasgara04" />
-<img style="width:31%" src="https://github-readme-stats.vercel.app/api?username=tamasgara04&show_icons=true&locale=en" alt="tamasgara04" />
-<img style="width:28%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamasgara04&show_icons=true&locale=en&layout=compact" alt="tamasgara04" />
+<img style="width:33%" src="https://github-readme-streak-stats.herokuapp.com/?user=tamasgara04&theme=gotham" alt="tamasgara04" />
+<img style="width:31%" src="https://github-readme-stats.vercel.app/api?username=tamasgara04&show_icons=true&locale=en&theme=gotham" alt="tamasgara04" />
+<img style="width:28%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamasgara04&show_icons=true&locale=en&layout=compact&theme=gotham" alt="tamasgara04" />
 </p>
 
 ## Experience
