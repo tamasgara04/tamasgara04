@@ -1,3 +1,5 @@
+![Cover Image](https://github.com/tamasgara04/tamasgara04/blob/main/cover_image.png?raw=true)
+
 <h1 align="center">Hi 👋, I'm Tamas</h1>
 <h3 align="center">A passionate backend developer from Germany/Serbia</h3>
 
