@@ -2,8 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Tamas</h1>
 <h3 align="center">A passionate backend developer from Germany/Serbia</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamasgara04&label=Profile%20views&color=0e75b6&style=flat" alt="tamasgara04" /> </p>
-<img align="right" src="https://media1.tenor.com/m/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif" alt="code gif" style="width: 100%; position: relative;"/>
+
+<img align="right" src="https://media1.tenor.com/m/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif" alt="code gif" style="width: 100%;"/>
 
 - 🔭 I’m currently working on **Kucoin Trading Bot**
 
@@ -63,10 +65,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
+<h3 align="left">Stats:</h3>
+
 <p align="center">
 <img style="width:33%" src="https://github-readme-streak-stats.herokuapp.com/?user=tamasgara04&theme=gotham" alt="tamasgara04" />
 <img style="width:31%" src="https://github-readme-stats.vercel.app/api?username=tamasgara04&show_icons=true&locale=en&theme=gotham" alt="tamasgara04" />
 <img style="width:28%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamasgara04&show_icons=true&locale=en&layout=compact&theme=gotham" alt="tamasgara04" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamasgara04&theme=darkhub" alt="tamasgara04" /></a>
 </p>
 
 ## Experience
@@ -112,5 +117,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tamasgara"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tamasgara" /></a></p><br><br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamasgara04" alt="tamasgara04" /></a> </p>
