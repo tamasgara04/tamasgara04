@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages:</h3>
 
-![Hungarian](https://img.shields.io/badge/Hungarian-%F0%9F%87%AD%F0%9F%87%BA-green) 
+![Hungarian](https://img.shields.io/badge/Hungarian-🇭🇺-green) 
 ![German](https://img.shields.io/badge/German-%F0%9F%87%A9%F0%9F%87%AA-yellow) 
 ![English](https://img.shields.io/badge/English-%F0%9F%87%AC%F0%9F%87%A7-red) 
 ![Serbian](https://img.shields.io/badge/Serbian-%F0%9F%87%B7%F0%9F%87%B8-blue)
