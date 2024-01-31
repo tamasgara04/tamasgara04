@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tamas</h1>
 <h3 align="center">A passionate backend developer from Germany/Serbia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamasgara04&label=Profile%20views&color=0e75b6&style=flat" alt="tamasgara04" /> </p>
-<img align="right" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" alt="code gif" style="width: 30%"/>
+<img align="right" src="https://media1.tenor.com/m/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif" alt="code gif" style="width: 100%; position: relative;"/>
 
 - 🔭 I’m currently working on **Kucoin Trading Bot**
 
