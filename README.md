@@ -5,16 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamasgara04&label=Profile%20views&color=0e75b6&style=flat" alt="tamasgara04" /> </p>
 
-<img align="right" src="https://media1.tenor.com/m/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif" alt="code gif" style="width: 100%;"/>
+<img align="right" src="https://media1.tenor.com/m/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif" alt="code gif" style="width: 75%;"/>
 
 - 🔭 I’m currently working on **Kucoin Trading Bot**
-
 - 🌱 I’m currently learning **Blazorise**
-
 - 👨‍💻 All of my projects are available at my [GitHub Repositories](https://github.com/tamasgara04?tab=repositories)
-
 - 💬 Ask me about **Python, PowerShell, C#**
-
 - 📫 How to reach me **ttamas104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -77,12 +73,9 @@
 </p>
 
 ## Experience
-
 ### Current Job - Software Developer
 *MoveIT Solutions GmbH, Gräfelfing/Munich, Germany*
-
 Engaged in system management and software automation for various clients in the fields of Pharma, Automotive, Finance, Pharma Distribution, Schools, and Construction Machinery.
-
 - Automated deployment of Windows operating systems (OS installation via PXE)
 - Software packaging with Ivanti DSM, Baramundi, Powershell, SCCM
 - Automated deployment of application software
@@ -94,44 +87,34 @@ Engaged in system management and software automation for various clients in the 
   - Designed and developed a proprietary support and control system for fully automated Windows OS and software installation (database based on Dataverse). Exclusively utilized Microsoft Cloud applications for implementation.
 - Developed various web applications based on C#, .Net Core, Blazorize, JavaScript, HTML, Python, CSS.
 ## Education
-
 ### School - Apprenticeship
 *Städt. Berufsschule für Informationstechnik, Munich*
-
 - Studied and applied Java programming in a hands-on educational environment.
 - Acquired practical experience in software development methodologies.
-
 ## Projects
-
 - **Automation Scripts (PowerShell):**
   - Developed and maintained PowerShell scripts for automating routine tasks, improving overall efficiency.
   - Countless silent installations for different Software.
   - WiFi connect with GUI for WinPE.
   - Read values from a database on a server and create an Unattend.xml from the values.
-
 - **Web Development (C# ASP.NET Blazor):**
   - Job at Zeppelin GmbH (06-2023 – 12-2023)
   - Created a web application based on Blazor and Blazorise (also with MudBlazor and Radzen). Integrated with an Efecte API to visually represent Service Requests, Incidents, and Changes. Processed the data for company-wide display on TV screens (in-house TV channel).
-
 - **Administrative jobs**
   - Job at FITS (3 months in 2022)
   - Assisted in interface programming between software management system and PAM solution.
-
   - Administrative tasks in the CyberArk environment
   - User management in Active Directory
   - Assignment of rights and roles
   - Creation and assignment of Active Directory group policies
-
 - **Java Application (School Project):**
   - Successfully completed a Java-based project during apprenticeship, demonstrating strong understanding of Java programming.
   - Created Rest Server and API Endpoints.
   - JUnit Tests for many different methods.
-
 - **Python:**
   - Automated Crypto Spot Trading Bot on Binance ([Trading Bot](http://garashome.ddns.net:3826/)).
   - Automated Crypto Futures (with Leverage) Trading bot on Kucoin (link coming soon).
   - Different Web Scraping projects .
-
 - **C++:**
   - Added WiFi module to a basic IR LED light for multiplatform controll.
 
