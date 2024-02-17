@@ -5,13 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamasgara04&label=Profile%20views&color=0e75b6&style=flat" alt="tamasgara04" /> </p>
 
-<img align="right" src="https://media1.tenor.com/m/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif" alt="code gif" style="width: 75%;"/>
 
-- 🔭 I’m currently working on **Kucoin Trading Bot**
-- 🌱 I’m currently learning **Blazorise**
-- 👨‍💻 All of my projects are available at my [GitHub Repositories](https://github.com/tamasgara04?tab=repositories)
-- 💬 Ask me about **Python, PowerShell, C#**
-- 📫 How to reach me **ttamas104@gmail.com**
+- 📫 Get in touch with me: **ttamas104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
